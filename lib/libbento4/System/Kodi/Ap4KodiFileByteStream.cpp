@@ -41,7 +41,7 @@
 
 #include "Ap4FileByteStream.h"
 
-#include <kodi/Filesystem.h>
+#include <omniplayer/Filesystem.h>
 
 /*----------------------------------------------------------------------
 |   compatibility wrappers

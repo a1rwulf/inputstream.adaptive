@@ -3,7 +3,7 @@ project(inputstream.adaptive)
 
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${PROJECT_SOURCE_DIR})
 
-find_package(Kodi REQUIRED)
+find_package(OmniPlayer REQUIRED)
 
 set(ADP_SOURCES
 	src/main.cpp
@@ -52,7 +52,7 @@ if(WIN32)
 endif()
 
 include_directories(${INCLUDES}
-                    ${KODI_INCLUDE_DIR}
+                    ${OMNIPLAYER_INCLUDE_DIR}
                     lib/libbento4/Core
                     lib/webm_parser/include
 )

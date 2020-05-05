@@ -24,7 +24,7 @@
 #include "Ap4Types.h"
 #include "Ap4DataBuffer.h"
 
-#include <kodi/addon-instance/Inputstream.h>
+#include <omniplayer/addon-instance/Inputstream.h>
 #include <TimingConstants.h>
 #include <webm/callback.h>
 #include <webm/status.h>

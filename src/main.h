@@ -19,7 +19,7 @@
 
 #include <vector>
 
-#include <kodi/addon-instance/Inputstream.h>
+#include <omniplayer/addon-instance/Inputstream.h>
 
 #include "common/AdaptiveTree.h"
 #include "common/AdaptiveStream.h"
