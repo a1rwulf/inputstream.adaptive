@@ -23,10 +23,10 @@
 #include <stdio.h>
 #include <string.h>
 #include <sstream>
-#include <omniplayer/General.h>
-#include <omniplayer/Filesystem.h>
-#include <omniplayer/StreamCodec.h>
-#include <omniplayer/addon-instance/VideoCodec.h>
+#include <omniyon/General.h>
+#include <omniyon/Filesystem.h>
+#include <omniyon/StreamCodec.h>
+#include <omniyon/addon-instance/VideoCodec.h>
 #include "DemuxCrypto.h"
 
 #include "aes_decrypter.h"
@@ -47,7 +47,7 @@
 #include <dlfcn.h>
 
 #if defined(ANDROID)
-#include <omniplayer/platform/android/System.h>
+#include <omniyon/platform/android/System.h>
 #endif
 
 #define DVD_TIME_BASE 1000000

@@ -21,7 +21,7 @@
 #include <stdint.h>
 #include "Ap4Types.h"
 #include "Ap4DataBuffer.h"
-#include <omniplayer/addon-instance/Inputstream.h>
+#include <omniyon/addon-instance/Inputstream.h>
 
 class AP4_ByteStream;
 

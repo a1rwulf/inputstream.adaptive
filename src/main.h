@@ -19,7 +19,7 @@
 
 #include <vector>
 
-#include <omniplayer/addon-instance/Inputstream.h>
+#include <omniyon/addon-instance/Inputstream.h>
 
 #include "common/AdaptiveTree.h"
 #include "common/AdaptiveStream.h"
