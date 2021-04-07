@@ -23,7 +23,7 @@
 #include <string>
 #include <vector>
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 class ATTRIBUTE_HIDDEN TTML2SRT
 {

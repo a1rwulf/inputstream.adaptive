@@ -20,7 +20,7 @@
 
 #include <string>
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 namespace adaptive
 {

@@ -26,7 +26,7 @@
 #include <string>
 #include <thread>
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 namespace adaptive
 {

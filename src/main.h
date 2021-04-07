@@ -19,8 +19,8 @@
 
 #include <vector>
 
-#include <kodi/addon-instance/Inputstream.h>
-#include <kodi/tools/DllHelper.h>
+#include <omniyon/addon-instance/Inputstream.h>
+#include <omniyon/tools/DllHelper.h>
 
 #include "common/AdaptiveTree.h"
 #include "common/AdaptiveStream.h"

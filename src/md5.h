@@ -36,7 +36,7 @@ documentation and/or software.
 #include <cstring>
 #include <iostream>
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 
 // a small class for calculating MD5 hashes of strings or byte arrays

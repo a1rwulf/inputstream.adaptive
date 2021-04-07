@@ -29,7 +29,7 @@
 #include <thread>
 #include <vector>
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 namespace adaptive
 {

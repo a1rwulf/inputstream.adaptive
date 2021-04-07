@@ -38,13 +38,13 @@
 #include <stdio.h>
 #include <string.h>
 
-#include <kodi/Filesystem.h>
-#include <kodi/General.h>
-#include <kodi/addon-instance/VideoCodec.h>
-#include <kodi/addon-instance/inputstream/StreamCodec.h>
+#include <omniyon/Filesystem.h>
+#include <omniyon/General.h>
+#include <omniyon/addon-instance/VideoCodec.h>
+#include <omniyon/addon-instance/inputstream/StreamCodec.h>
 
 #if defined(ANDROID)
-#include <kodi/platform/android/System.h>
+#include <omniyon/platform/android/System.h>
 #endif
 
 #ifdef CreateDirectory

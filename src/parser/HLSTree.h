@@ -23,7 +23,7 @@
 #include <map>
 #include <sstream>
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 class IAESDecrypter;
 

@@ -20,7 +20,7 @@
 
 #include "../common/AdaptiveTree.h"
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 namespace adaptive
 {

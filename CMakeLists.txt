@@ -3,7 +3,7 @@ project(inputstream.adaptive)
 
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${PROJECT_SOURCE_DIR})
 
-find_package(Kodi REQUIRED)
+find_package(Omniyon REQUIRED)
 
 set(ADP_SOURCES
 	src/main.cpp
@@ -53,7 +53,7 @@ if(WIN32)
 endif()
 
 include_directories(${INCLUDES}
-                    ${KODI_INCLUDE_DIR}/.. # Hack way with "/..", need bigger Kodi cmake rework to match right include ways (becomes done in future)
+                    ${OMNIYON_INCLUDE_DIR}/.. # Hack way with "/..", need bigger Kodi cmake rework to match right include ways (becomes done in future)
                     lib/libbento4/Core
                     lib/webm_parser/include
 )

@@ -24,7 +24,7 @@
 
 #include <string>
 
-#include <kodi/AddonBase.h>
+#include <omniyon/AddonBase.h>
 
 class ATTRIBUTE_HIDDEN AESDecrypter : public IAESDecrypter
 {
